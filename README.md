@@ -4,11 +4,11 @@ Este programa desenvolvido em C++ sobre um projeto (TIDIR) interdisciplinar e in
 
 O objetivo deste programa é um simples algoritmo que cálcula a Dilatação Volumétrica do Ferro Gusa, baseado no volume inicial do ferro gusa (**em METROS cubicos**), temperatura **INICIAL** e a temperatura **FINAL** do material.
 
-Cálculo feito a partir da seguinte equação:
+## Cálculo feito a partir da seguinte equação:
 
-Enquanto a temperatura inicial for maior que a temperatura final --->
+Enquanto a temperatura inicial for maior que a temperatura final.
 
-_(t0>tf)_ faça -->
+_(t0>tf)_ _faça:_
 
 _vT(volume total)= tf-t0_ **&** 
 _dV(dilatação volumétrica) = v0* y* vT_
